@@ -1,4 +1,4 @@
-[
+{
 	"UI":"200a1c309f35b2253392c1429043109b",
 	"RustClient_Data\app.info":"35b15379b0969790ae55ec3ae23ac0e1",
 	"RustClient_Data\boot.config":"a327909ceecae30fcb3a1a51f09ad425",
@@ -82,4 +82,4 @@
 	"RustClient_Data\StreamingAssets\benchmark.dem":"b8ad7b10cbd1733f788a07e444eaf5c0",
 	"RustClient_Data\StreamingAssets\LZ4.txt":"a9bd503ba32055c88d42ed6ea8a5fdc3",
 	"RustClient_Data\StreamingAssets\RenderInfo.exe":"77a79e34f190597353844ccae73e05ed",
-]
+}
