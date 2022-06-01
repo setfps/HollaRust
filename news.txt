@@ -1,4 +1,6 @@
-{ "appnews": { "appid": 252490, "newsitems": [ { "gid": 1283752944101, "title": "ИНФОРМАЦИЯ С ВК", "url": "https://vk.com/hollarust", "is_external_url": true, "author": "HollaRust", "contents": "[img]https://imgur.com/UhzWVa6.png[/img]Сервер скоро откроется, следите за новостями 🔥
-Мы долгое время готовили для вас это обновление 😄
+{ "appnews": { "appid": 252490, "newsitems": [ { "gid": 1283752944101, "title": "ИНФОРМАЦИЯ С ВК", "url": "https://vk.com/hollarust", "is_external_url": true, "author": "HollaRust", "contents": "[img]https://imgur.com/UhzWVa6.png[/img]
 
-IP Combat: connect 45.135.164.132:3389 😎", "feedlabel": "Community Announcements", "date": 1654091698, "feedname": "steam_community_announcements", "feed_type": 1, "appid": 252490 } ] } }
+
+Ip: connect 45.135.164.132:3389
+Спасибо что выбираете именно нас
+Приятной вам игры на нашем проекте", "feedlabel": "Community Announcements", "date": 1654091698, "feedname": "steam_community_announcements", "feed_type": 1, "appid": 252490 } ] } }
